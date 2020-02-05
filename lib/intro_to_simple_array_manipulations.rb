@@ -122,7 +122,7 @@ def using_delete_at(array, num)
   puts""
 end
 
-using_delete_at(4, pure_art)
+using_delete_at(pure_art, 4)
 
 
 
