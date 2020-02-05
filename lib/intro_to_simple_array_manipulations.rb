@@ -117,4 +117,6 @@ end
 
 using_delete(pure_art, "2")
 
-p pure_art
+def using_delete_at(array)
+  p array.delete
+end
