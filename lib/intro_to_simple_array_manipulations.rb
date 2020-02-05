@@ -117,6 +117,6 @@ end
 p artists
 p pure_art
 
-
+using_delete(pure_art, "2")
 
 
