@@ -115,7 +115,7 @@ def using_delete(array, element)
 end
 
 p artists
-
+p pure_art
 
 
 
