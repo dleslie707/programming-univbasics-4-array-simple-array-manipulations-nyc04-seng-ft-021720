@@ -117,4 +117,4 @@ end
 
 using_delete(pure_art, "2")
 
-
+p pure_art
