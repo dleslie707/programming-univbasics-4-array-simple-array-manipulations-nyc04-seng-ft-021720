@@ -98,7 +98,7 @@ puts""
 using_uniq(artists)
 
 def using_flatten(array)
-  p array.flatten
+  p array.flatten!
   puts""
 end
 
