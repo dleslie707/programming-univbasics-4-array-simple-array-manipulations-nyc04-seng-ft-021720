@@ -109,6 +109,14 @@ pure_art = [stay, chill, artists]
 
 using_flatten(pure_art)
 
+def using_delete(array, element)
+  p array.delete(element)
+  puts""
+end
+
+p artists
+
+
 
 
 
