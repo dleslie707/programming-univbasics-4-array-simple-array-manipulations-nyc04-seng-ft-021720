@@ -97,8 +97,9 @@ puts""
 
 using_uniq(artists)
 
-def using_flatten(array, array2)
-  array.flatten
+def using_flatten(array)
+  p array.flatten
+  puts""
 end
 
 stay = ["1", "2", "wild"]
@@ -106,7 +107,7 @@ chill = [["3", "4", "7"], "cool vibes", ["fun", "world"]]
 
 pure_art = [stay, chill, artist]
 
-
+using_flatten(pure_art)
 
 
 
