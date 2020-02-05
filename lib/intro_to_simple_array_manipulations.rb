@@ -124,6 +124,7 @@ end
 
 using_delete_at(pure_art, 4)
 
+p pure_art
 
 
 
