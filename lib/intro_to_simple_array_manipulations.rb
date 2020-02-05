@@ -115,9 +115,6 @@ def using_delete(array, element)
   p pure_art
 end
 
-p artists
-p pure_art
-
 using_delete(pure_art, "2")
 
 
