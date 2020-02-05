@@ -105,7 +105,7 @@ end
 stay = ["1", "2", "wild"]
 chill = [["3", "4", "7"], "cool vibes", ["fun", "world"]]
 
-pure_art = [stay, chill, artist]
+pure_art = [stay, chill, artists]
 
 using_flatten(pure_art)
 
