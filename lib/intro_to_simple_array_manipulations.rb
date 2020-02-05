@@ -112,7 +112,7 @@ using_flatten(pure_art)
 def using_delete(array, element)
   p array.delete(element)
   puts""
-  p arrray
+  p array
 end
 
 using_delete(pure_art, "2")
